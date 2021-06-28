@@ -1,0 +1,10 @@
+.primera-linea{
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.segunda-linea{
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
